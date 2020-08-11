@@ -1,13 +1,23 @@
-# flutternoteapp
+# To-Do App 
 
-Note App using SQFlite 
+Ever wonder why you don't meet up with tasks sometimes? :neutral_face: That's because you need a well-structured to-do list to plan your day. :wink:
+  
+## Features
 
-## Getting Started
+- SQFITE (database) 
+- Swipe to delete 
+- Text Validation 
+- Custom Buttons with Shadow
+- Alert Dialog 
+- Drop Down Menu
+- Snackbar 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ This app performs the CRUD Operation 
+
+### Demo
 
 ![Preview](https://media.giphy.com/media/S465NdEBaCIGjveu2x/giphy.gif)
 
 
+Enjoy :smiley: :cool:

@@ -4,20 +4,22 @@ Ever wonder why you don't meet up with tasks sometimes? :neutral_face: That's be
   
 ## Features
 
+- Splash Screen 
 - SQFITE (database) 
 - Swipe to delete 
 - Text Validation 
 - Custom Buttons with Shadow
-- Alert Dialog 
+- Alert Dialog
+- Floating action bar 
 - Drop Down Menu
 - Snackbar 
 
 
- This app performs the CRUD Operation 
+ This app performs the CRUD Operation. SQFITE plugin versions [link](https://pub.dev/packages/sqflite/versions)
 
 ### Demo
 
 ![Preview](https://media.giphy.com/media/S465NdEBaCIGjveu2x/giphy.gif)
 
 
-Enjoy :smiley: :cool:
+Enjoy :smiley: :sunglasses:
